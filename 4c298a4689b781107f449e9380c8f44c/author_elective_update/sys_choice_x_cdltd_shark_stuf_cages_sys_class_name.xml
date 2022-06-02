@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="sys_class_name" table="x_cdltd_shark_stuf_cages" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>sys_class_name</element>
+            <name>x_cdltd_shark_stuf_cages</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-06-01 20:59:16</sys_created_on>
+            <sys_id>794c0a4a89b781107f449e9380c8f40d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sys_class_name</sys_name>
+            <sys_package display_value="Shark Stuff" source="x_cdltd_shark_stuf">4c298a4689b781107f449e9380c8f44c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Shark Stuff">4c298a4689b781107f449e9380c8f44c</sys_scope>
+            <sys_update_name>sys_choice_x_cdltd_shark_stuf_cages_sys_class_name</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-06-01 20:59:16</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sys_class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Cages</label>
+            <language>en</language>
+            <name>x_cdltd_shark_stuf_cages</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-06-01 20:59:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3d4c0a4a89b781107f449e9380c8f40c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-06-01 20:59:16</sys_updated_on>
+            <value>x_cdltd_shark_stuf_cages</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
